@@ -1,2 +1,2 @@
 # XamAndroidDataWedge
-Xamarin Android and DataWedge
+Xamarin Android and DataWedge demo project
